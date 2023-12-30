@@ -155,14 +155,14 @@ def lyapunov_kernel(min_x, max_x, min_y, max_y, image, S, X0, alpha, max_iterati
 
 AA = 4
 
-#conf = 1
-#width=720
-#height=720*2
-#S = np.array([1,1,1,1,1,1,0,0,0,0,0,0], dtype=np.uint8)
-#X0 = 0.5
-#alpha = 1.0
-#max_iterations = 300
-#min_x, max_x, min_y, max_y = 3.4, 4.0, 2.45, 3.65
+conf = 1
+width=360
+height=360*2
+S = np.array([1,1,1,1,1,1,0,0,0,0,0,0], dtype=np.uint8)
+X0 = 0.5
+alpha = 1.0
+max_iterations = 300
+min_x, max_x, min_y, max_y = 3.4, 4.0, 2.45, 3.65
 
 #conf = 2
 #width=720
@@ -191,14 +191,14 @@ AA = 4
 #max_iterations = 600
 #min_x, max_x, min_y, max_y = 3.798, 3.825, 3.798, 3.825
 
-conf = 4
-width=720
-height=720
-S = np.array([1,0,1,0,1,0,1,0], dtype=np.uint8)
-X0 = 0.7
-alpha = 0.9935
-max_iterations = 600
-min_x, max_x, min_y, max_y = 3.82, 3.87, 3.82, 3.87
+#conf = 4
+#width=720
+#height=720
+#S = np.array([1,0,1,0,1,0,1,0], dtype=np.uint8)
+#X0 = 0.7
+#alpha = 0.9935
+#max_iterations = 600
+#min_x, max_x, min_y, max_y = 3.82, 3.87, 3.82, 3.87
 
 data = np.ones((height, width), dtype=np.float32)
 
