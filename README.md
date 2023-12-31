@@ -11,6 +11,8 @@ Mandelbrot fractals showcase the iterative behavior of complex numbers within a 
 
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/mandelbrot/asset/mandelbrot.png)
 
+"It's a butt" - Maria
+
 source: [https://en.wikipedia.org/wiki/Mandelbrot_set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
 
@@ -21,6 +23,10 @@ Newton fractals are a type of fractal generated through iterative processes appl
 ### Examples
 
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/newton/asset/newton.png)
+
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/newton/asset/newton_2.png)
+
+"It's the Duolingo owl" - Maria
 
 source: [https://en.wikipedia.org/wiki/Newton_fractal](https://en.wikipedia.org/wiki/Newton_fractal)
 
@@ -33,11 +39,19 @@ Lyapunov fractals are generated through the analysis of chaotic behavior in iter
 
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/lyapunov/asset/lyapunov_1.png)
 
+"It's a ship on fire" - Maria
+
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/lyapunov/asset/lyapunov_2.png)
+
+"It's just fire" - Maria
 
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/lyapunov/asset/lyapunov_3.png)
 
+"It's a bug" - Maria
+
 ![alt tag](https://github.com/ale93111/Fractals-python/blob/main/lyapunov/asset/lyapunov_4.png)
+
+"It's NSFW" - Maria
 
 source: [https://en.wikipedia.org/wiki/Lyapunov_fractal](https://en.wikipedia.org/wiki/Lyapunov_fractal)
 
