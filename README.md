@@ -55,6 +55,20 @@ Lyapunov fractals are generated through the analysis of chaotic behavior in iter
 
 source: [https://en.wikipedia.org/wiki/Lyapunov_fractal](https://en.wikipedia.org/wiki/Lyapunov_fractal)
 
+## Dragon Curves
+
+A dragon curve is any member of a family of self-similar fractal curves, which can be approximated by recursive methods such as Lindenmayer systems. The dragon curve is probably most commonly thought of as the shape that is generated from repeatedly folding a strip of paper in half, although there are other curves that are called dragon curves that are generated differently. 
+
+### Examples
+
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon/asset/dragon.png)
+
+"It's a gym bro flexing" - Maria
+
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon/asset/dragon_animation.gif)
+
+source: [https://en.wikipedia.org/wiki/Dragon_curve](https://en.wikipedia.org/wiki/Dragon_curve)
+
 ## Installation
 
 To run the fractal scripts, you'll need to have Python installed on your machine. Additionally, you might want to install any dependencies specific to certain scripts. You can install the required dependencies using the following command:
