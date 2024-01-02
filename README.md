@@ -61,11 +61,11 @@ A dragon curve is any member of a family of self-similar fractal curves, which c
 
 ### Examples
 
-![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon/asset/dragon.png)
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon_curve/asset/dragon.png)
 
 "It's a gym bro flexing" - Maria
 
-![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon/asset/dragon_animation.gif)
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/dragon_curve/asset/dragon_animation.gif)
 
 source: [https://en.wikipedia.org/wiki/Dragon_curve](https://en.wikipedia.org/wiki/Dragon_curve)
 
