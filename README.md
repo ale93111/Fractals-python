@@ -15,6 +15,18 @@ Mandelbrot fractals showcase the iterative behavior of complex numbers within a 
 
 source: [https://en.wikipedia.org/wiki/Mandelbrot_set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
+## Buddhabrot method
+
+The Buddhabrot is a visualization technique used in the field of fractal art, particularly associated with the Mandelbrot set. The Mandelbrot set is a set of complex numbers defined by iterating a simple mathematical formula. The Buddhabrot technique is a way of rendering the orbits of points in the complex plane that escape the set.
+
+### Examples
+
+![alt tag](https://github.com/ale93111/Fractals-python/blob/main/buddhabrot/asset/buddhabrot.png)
+
+"It's a woman sitting on a chair" - Maria
+
+source: [https://en.wikipedia.org/wiki/Buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot)
+
 
 ## Newton Fractals
 
